@@ -1,5 +1,3 @@
-Certainly! Here’s an updated and visually appealing README for your portfolio. I've added some enhancements to make it more engaging and easy to read:
-
 ---
 
 # 🚀 React Portfolio Template
@@ -10,7 +8,7 @@ Welcome to my portfolio template designed for developers and designers using Rea
 
 Check out the live preview of this template:
 
-[![React Portfolio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+https://hussain-portfolio-app.vercel.app/
 
 ## ✨ Features
 
