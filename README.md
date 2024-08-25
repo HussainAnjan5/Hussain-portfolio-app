@@ -1,6 +1,6 @@
 ---
 
-# 🚀 React Portfolio Template
+# 🚀 Hussain Portfolio App Template
 
 Welcome to my portfolio template designed for developers and designers using React. This template is perfect for showcasing your work and skills with a modern, responsive layout.
 
@@ -25,7 +25,7 @@ Follow these steps to get your own instance up and running:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/HussainAnjan5/react-portfolio.git
+   git clone https://github.com/HussainAnjan5/Hussain-portfolio-app.git
    ```
 
 2. **Install Dependencies**
