@@ -160,23 +160,42 @@ const reviews=[
 ];
 const experience = [
     {
-        title: "Web Developer | Punjab Information Technology Board (PITB) | January 2024 - Present",
-        description1: "Developed and customized websites for clients in various industries, focusing on e-commerce and portfolio sites.",
-        description2: "Created custom themes and plugins to enhance site functionality and meet specific client needs.",
-        description3: "Provided ongoing support and maintenance, ensuring the security and performance of client websites.",
+        title: "Web Developer | Punjab Information Technology Board (PITB) | July 2024 - Present",
+        description1: "The Punjab Information Technology Board (PITB) is a leading government entity in Pakistan, specializing in developing and implementing technology solutions to improve public sector efficiency.",
+        description2: "Assisted in the design, development, and deployment of web applications for various public sector projects.",
+        description3: "Wrote clean, efficient, and scalable code to ensure optimal website performance.",
+        description4: "Collaborated with senior developers to integrate front-end designs with back-end functionality.",
+        description5: "Added dynamic progress monitoring features with real-time updates, including bar and pie charts to display data visually.",
     },
     {
-
-        title: " Frontend Developer | Tech Solutions Inc. | January 2022 - June 2022",
-        description1: "Designed and implemented responsive web interfaces using React, HTML, CSS, and JavaScript.",
-        description2: "Collaborated with designers to create visually appealing and user-friendly websites for diverse clients, including startups and established businesses.",
-        description3: "Optimized website performance and implemented SEO strategies, resulting in a 40% increase in organic traffic.",
+        title: "Web Development Intern | Brainwave Matrix Solutions (Remote) | March 2024 - June 2024",
+        description1: "Brainwave Matrix Solutions specializes in delivering innovative digital solutions for businesses across industries.",
+        description2: "Developed and optimized web applications to enhance user experience.",
+        description3: "Implemented gamified features to increase user interaction and engagement.",
+        description4: "Collaborated with designers and backend developers to ensure seamless web functionality.",
+        description5: "Assisted with the maintenance and updating of existing websites to improve performance and security.",
     },
     {
-        title: "MERN Stack Developer | Creative Web Agency | March 2022 - October 2023",
-        description1: "Led the development of a cutting-edge e-commerce platform using the MERN stack, improving customer engagement and sales by 30%.",
-        description2: "Integrated third-party APIs for payment processing and real-time analytics, enhancing the platform's functionality and user experience.",
-        description3: "Coordinated with cross-functional teams to streamline development processes and implement agile methodologies.",
+        title: "Frontend Web Developer | HiskyTech (Remote) | October 2023 - February 2024",
+        description1: "HiskyTech provides high-quality web development services to businesses seeking cutting-edge digital solutions.",
+        description2: "Displayed tools for image generation, PDF/video creation, background removal, and more.",
+        description3: "Focused on responsive design and interactive UI for a seamless user experience.",
+        description4: "Designed a visually engaging UI with dynamic animations and intuitive navigation.",
+        description5: "Converted design mockups from Figma and XD into functional React.js/Next.js components.",
+    },
+    {
+        title: "React Developer | CodexCue Software Solutions (Remote) | July 2023 - September 2023",
+        description1: "CodexCue provides high-quality web development services to businesses seeking cutting-edge digital solutions.",
+        description2: "Built responsive, high-performance web interfaces using modern frontend technologies.",
+        description3: "Designed and implemented React.js/Next.js components while ensuring seamless integration with design mockups from Figma and XD.",
+        description4: "Collaborated remotely with a global team to deliver client-focused web solutions.",
+    },
+    {
+        title: "Frontend Web Developer (Freelancer) | August 2022 - Present",
+        description1: "Specialized in creating responsive, user-friendly web interfaces using modern technologies such as React.js, Tailwind CSS, and Next.js.",
+        description2: "Converted Figma and PSD designs into high-quality, fully functional websites.",
+        description3: "Provided custom solutions tailored to client needs across various industries.",
+        description4: "Delivered ongoing support and maintenance for existing projects to ensure optimal performance and security.",
     },
 ];
 
