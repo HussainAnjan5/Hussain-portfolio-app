@@ -189,13 +189,16 @@ const experience = [
         description2: "Built responsive, high-performance web interfaces using modern frontend technologies.",
         description3: "Designed and implemented React.js/Next.js components while ensuring seamless integration with design mockups from Figma and XD.",
         description4: "Collaborated remotely with a global team to deliver client-focused web solutions.",
+        description5: "Collaborated with senior developers to integrate front-end designs with back-end functionality.",
     },
     {
         title: "Frontend Web Developer (Freelancer) | August 2022 - Present",
         description1: "Specialized in creating responsive, user-friendly web interfaces using modern technologies such as React.js, Tailwind CSS, and Next.js.",
         description2: "Converted Figma and PSD designs into high-quality, fully functional websites.",
         description3: "Provided custom solutions tailored to client needs across various industries.",
-        description4: "Delivered ongoing support and maintenance for existing projects to ensure optimal performance and security.",
+        description4: "Collaborated with senior developers to integrate front-end designs with back-end functionality.",
+        description5: "Delivered ongoing support and maintenance for existing projects to ensure optimal performance and security.",
+        
     },
 ];
 
