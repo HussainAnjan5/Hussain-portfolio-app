@@ -31,6 +31,8 @@ export const Experience = () => {
                     <li>{data.description1}</li>
                     <li>{data.description2}</li>
                     <li>{data.description3}</li>
+                   <li>{data.description4}</li>
+                    <li>{data.description5}</li>
                   </ul>
                 </div>
               );
