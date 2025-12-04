@@ -59,5 +59,3 @@ export const About = () => {
     </HelmetProvider>
   );
 };
-
-
